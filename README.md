@@ -15,6 +15,8 @@ MVP RXJava 基础架构
 ![](img/Screenshot_1509613716.png)
 ![](img/Screenshot_1509613718.png)
 
+服务器连接地址 [JSSMForFramMVP](https://github.com/ybADMIN/JSSMForFramMVP)
+
 Author
 ------
 Eric Yang - @ybADMIN on GitHub, yb498869020@hotmail.com on Email
